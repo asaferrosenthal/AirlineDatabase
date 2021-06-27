@@ -1,2 +1,2 @@
 # AirlineDatabase
-SQL Relational database and website
+This project was done alone and involved building a website that could be used to perform various operations on a relational database. The project as themed as an airline database, would held information about airlines, airplanes, and flights. First, the relational database was built using SQL, which was followed by populating it with mock data. Afterwards, I created several webpages using php, which contained fields that a user could use to query the database. Some of these included: displaying flight schedules that were joined from different tables, adding and removing flights, booking a flight and seeing cumulative information about all the flights.
